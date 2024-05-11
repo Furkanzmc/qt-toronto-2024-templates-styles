@@ -1,0 +1,20 @@
+{
+  "name": "qt-toronto-2024-templates-styles",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.2",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-eloc": "^1.0.2",
+    "slidev-theme-takahashi": "^1.0.0",
+    "slidev-theme-the-unnamed": "^0.0.18",
+    "vue": "^3.4.27"
+  }
+}
